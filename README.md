@@ -1,7 +1,9 @@
-### Hi there 👋
+[![DigDug's github banner](./assets/header-image.png)](https://github.com/benaduggan/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/benaduggan)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benaduggan)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/benaduggan)
+
 
 <!--
 **benaduggan/benaduggan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## &#x1f4c8; GitHub Stats
+
+![Metrics](https://metrics.lecoq.io/benaduggan?template=classic&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York)
