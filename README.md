@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 ## &#x1f4c8; GitHub Stats
-
+<!-- where I generated this: https://metrics.lecoq.io/embed?user=benaduggan -->
 ![Metrics](https://metrics.lecoq.io/benaduggan?template=classic&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=America%2FNew_York)
